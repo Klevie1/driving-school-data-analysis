@@ -28,4 +28,4 @@ This project analyzes the financial performance of a driving school using Excel.
 - Improve debt collection
 
 ## 📷 Dashboard Preview
-![Dashboard](Screenshot 2026-04-06 171313.png)
+![Dashboard](https://github.com/Klevie1/driving-school-data-analysis/blob/main/Screenshot%202026-04-06%20171313.png)
